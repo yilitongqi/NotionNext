@@ -39,7 +39,7 @@ module.exports = {
     {
       name: '风を共に舞う気持ち',
       artist: 'Falcom Sound Team jdk',
-      url: 'https://music.163.com/song/media/outer/url?id=731419.mp3',
+      url: 'https://file.notion.so/f/f/e3896798-ec58-81ba-ab5d-00031b37712f/d58adaa1-c5e1-4f05-bbdc-9dcea4ac6207/%E4%B8%96%E7%95%8C%E5%90%8D%E6%9B%B2_-_%E5%A4%A9%E5%9B%BD%E7%9A%84%E5%A5%B3%E5%84%BF.mp3?table=block&id=2b896798-ec58-80ce-8231-f87d7896b492&spaceId=e3896798-ec58-81ba-ab5d-00031b37712f&expirationTimestamp=1764273600000&signature=-WQAVZhA07ynR0Q-FqUfPEgbvknJvM9AV74h_I8QzaM&downloadName=%E4%B8%96%E7%95%8C%E5%90%8D%E6%9B%B2+-+%E5%A4%A9%E5%9B%BD%E7%9A%84%E5%A5%B3%E5%84%BF.mp3',
       cover:
         'https://raw.githubusercontent.com/yilitongqi/tuchuang/refs/heads/main/%E5%8F%A4%E5%AD%97%E7%82%B9-%E9%BB%91%E5%BA%951_%E5%89%AF%E6%9C%AC.png'
     },
