@@ -41,14 +41,14 @@ module.exports = {
       artist: '古字点自作',
       url: 'https://file.notion.so/f/f/e3896798-ec58-81ba-ab5d-00031b37712f/c11d3d69-7c91-4c93-8e5f-e96f7141e94a/%E5%8D%8E%E5%A5%87-%E6%A2%A6%E9%87%8C%E7%9A%84%E4%BB%96.ogg?table=block&id=2b896798-ec58-8072-a9d4-cfc060d8ef3a&spaceId=e3896798-ec58-81ba-ab5d-00031b37712f&expirationTimestamp=1764273600000&signature=54Ctm4ABTqzMQYh55QIHXnHAaSm0fXYveglxgnsrLmY&downloadName=%E5%8D%8E%E5%A5%87-%E6%A2%A6%E9%87%8C%E7%9A%84%E4%BB%96.ogg',
       cover:
-        'https://raw.githubusercontent.com/yilitongqi/tuchuang/refs/heads/main/%E5%8F%A4%E5%AD%97%E7%82%B9-%E9%BB%91%E5%BA%951_%E5%89%AF%E6%9C%AC.png'
+        'https://file.notion.so/f/f/e3896798-ec58-81ba-ab5d-00031b37712f/ed7027bb-1eae-4cee-b59a-2c9d33b78b39/%E5%8F%A4%E5%AD%97%E7%82%B9-%E9%BB%91%E5%BA%951_%E5%89%AF%E6%9C%AC.png?table=block&id=2b896798-ec58-80b7-aace-e09fbad901f2&spaceId=e3896798-ec58-81ba-ab5d-00031b37712f&expirationTimestamp=1764280800000&signature=mDvg1_2sNHW2bAyAH3pP2x-cUzoiuGutCehE9xH0rKU&downloadName=%E5%8F%A4%E5%AD%97%E7%82%B9-%E9%BB%91%E5%BA%951_%E5%89%AF%E6%9C%AC.png'
     },
     {
       name: '天国的女儿',
       artist: '世界名曲',
       url: 'https://file.notion.so/f/f/e3896798-ec58-81ba-ab5d-00031b37712f/d58adaa1-c5e1-4f05-bbdc-9dcea4ac6207/%E4%B8%96%E7%95%8C%E5%90%8D%E6%9B%B2_-_%E5%A4%A9%E5%9B%BD%E7%9A%84%E5%A5%B3%E5%84%BF.mp3?table=block&id=2b896798-ec58-80ce-8231-f87d7896b492&spaceId=e3896798-ec58-81ba-ab5d-00031b37712f&expirationTimestamp=1764273600000&signature=-WQAVZhA07ynR0Q-FqUfPEgbvknJvM9AV74h_I8QzaM&downloadName=%E4%B8%96%E7%95%8C%E5%90%8D%E6%9B%B2+-+%E5%A4%A9%E5%9B%BD%E7%9A%84%E5%A5%B3%E5%84%BF.mp3',
       cover:
-        'https://raw.githubusercontent.com/yilitongqi/tuchuang/refs/heads/main/%E5%8F%A4%E5%AD%97%E7%82%B9-%E9%BB%91%E5%BA%951_%E5%89%AF%E6%9C%AC.png'
+        'https://file.notion.so/f/f/e3896798-ec58-81ba-ab5d-00031b37712f/ed7027bb-1eae-4cee-b59a-2c9d33b78b39/%E5%8F%A4%E5%AD%97%E7%82%B9-%E9%BB%91%E5%BA%951_%E5%89%AF%E6%9C%AC.png?table=block&id=2b896798-ec58-80b7-aace-e09fbad901f2&spaceId=e3896798-ec58-81ba-ab5d-00031b37712f&expirationTimestamp=1764280800000&signature=mDvg1_2sNHW2bAyAH3pP2x-cUzoiuGutCehE9xH0rKU&downloadName=%E5%8F%A4%E5%AD%97%E7%82%B9-%E9%BB%91%E5%BA%951_%E5%89%AF%E6%9C%AC.png'
     }
   ],
   MUSIC_PLAYER_METING: process.env.NEXT_PUBLIC_MUSIC_PLAYER_METING || false, // 是否要开启 MetingJS，从平台获取歌单。会覆盖自定义的 MUSIC_PLAYER_AUDIO_LIST，更多配置信息：https://github.com/metowolf/MetingJS
