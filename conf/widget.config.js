@@ -41,7 +41,7 @@ module.exports = {
       artist: 'Falcom Sound Team jdk',
       url: 'https://music.163.com/song/media/outer/url?id=731419.mp3',
       cover:
-        'https://raw.githubusercontent.com/yilitongqi/tuchuang/refs/heads/main/%E9%9F%B3%E4%B9%9011.svg'
+        'https://raw.githubusercontent.com/yilitongqi/tuchuang/refs/heads/main/%E9%9F%B3%E4%B9%90%E5%9B%BE%E6%A0%87.jpg'
     },
     {
       name: '王都グランセル',
