@@ -37,23 +37,23 @@ module.exports = {
   MUSIC_PLAYER_AUDIO_LIST: [
     // 示例音乐列表。除了以下配置外，还可配置歌词，具体配置项看此文档 https://aplayer.js.org/#/zh-Hans/
     {
-      name: '后来',
-      artist: '刘若英',
-      url: 'http://music.163.com/song/media/outer/url?id=1488102278',
+      name: '这世界有那么多人',
+      artist: '莫文蔚',
+      url: 'http://music.163.com/song/media/outer/url?id=1983505907',
       cover:
         'https://file.notion.so/f/f/e3896798-ec58-81ba-ab5d-00031b37712f/ed7027bb-1eae-4cee-b59a-2c9d33b78b39/%E5%8F%A4%E5%AD%97%E7%82%B9-%E9%BB%91%E5%BA%951_%E5%89%AF%E6%9C%AC.png?table=block&id=2b896798-ec58-80b7-aace-e09fbad901f2&spaceId=e3896798-ec58-81ba-ab5d-00031b37712f&expirationTimestamp=1764280800000&signature=mDvg1_2sNHW2bAyAH3pP2x-cUzoiuGutCehE9xH0rKU&downloadName=%E5%8F%A4%E5%AD%97%E7%82%B9-%E9%BB%91%E5%BA%951_%E5%89%AF%E6%9C%AC.png'
     },
     {
       name: '小幸运',
       artist: '田馥甄',
-      url: 'http://music.163.com/song/media/outer/url?id=423997333',
+      url: 'http://music.163.com/song/media/outer/url?id=1924329754',
       cover:
         'https://file.notion.so/f/f/e3896798-ec58-81ba-ab5d-00031b37712f/ed7027bb-1eae-4cee-b59a-2c9d33b78b39/%E5%8F%A4%E5%AD%97%E7%82%B9-%E9%BB%91%E5%BA%951_%E5%89%AF%E6%9C%AC.png?table=block&id=2b896798-ec58-80b7-aace-e09fbad901f2&spaceId=e3896798-ec58-81ba-ab5d-00031b37712f&expirationTimestamp=1764280800000&signature=mDvg1_2sNHW2bAyAH3pP2x-cUzoiuGutCehE9xH0rKU&downloadName=%E5%8F%A4%E5%AD%97%E7%82%B9-%E9%BB%91%E5%BA%951_%E5%89%AF%E6%9C%AC.png'
     },
     {
-      name: '这世界有那么多人',
-      artist: '莫文蔚',
-      url: 'http://music.163.com/song/media/outer/url?id=1983505907',
+      name: '后来',
+      artist: '刘若英',
+      url: 'http://music.163.com/song/media/outer/url?id=1488102278',
       cover:
         'https://file.notion.so/f/f/e3896798-ec58-81ba-ab5d-00031b37712f/ed7027bb-1eae-4cee-b59a-2c9d33b78b39/%E5%8F%A4%E5%AD%97%E7%82%B9-%E9%BB%91%E5%BA%951_%E5%89%AF%E6%9C%AC.png?table=block&id=2b896798-ec58-80b7-aace-e09fbad901f2&spaceId=e3896798-ec58-81ba-ab5d-00031b37712f&expirationTimestamp=1764280800000&signature=mDvg1_2sNHW2bAyAH3pP2x-cUzoiuGutCehE9xH0rKU&downloadName=%E5%8F%A4%E5%AD%97%E7%82%B9-%E9%BB%91%E5%BA%951_%E5%89%AF%E6%9C%AC.png'
     },
