@@ -62,7 +62,7 @@ module.exports = {
       artist: '世界名曲',
       url: 'http://music.163.com/song/media/outer/url?id=5238503',
       cover:
-        'v'
+        'https://raw.githubusercontent.com/yilitongqi/tuchuang/refs/heads/main/%E5%8F%A4%E5%AD%97%E7%82%B9-%E9%BB%91%E5%BA%951_%E5%89%AF%E6%9C%AC.png'
     }
   ],
   MUSIC_PLAYER_METING: process.env.NEXT_PUBLIC_MUSIC_PLAYER_METING || false, // 是否要开启 MetingJS，从平台获取歌单。会覆盖自定义的 MUSIC_PLAYER_AUDIO_LIST，更多配置信息：https://github.com/metowolf/MetingJS
