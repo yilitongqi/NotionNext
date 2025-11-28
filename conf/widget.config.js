@@ -37,30 +37,30 @@ module.exports = {
   MUSIC_PLAYER_AUDIO_LIST: [
     // 示例音乐列表。除了以下配置外，还可配置歌词，具体配置项看此文档 https://aplayer.js.org/#/zh-Hans/
     {
-      name: '请你对我放过',
-      artist: '古字点',
-      url: 'https://file.notion.so/f/f/e3896798-ec58-81ba-ab5d-00031b37712f/85d0651a-eefb-4e4a-9677-870c5ed61240/%E8%AF%B7%E4%BD%A0%E5%AF%B9%E6%88%91%E6%94%BE%E8%BF%87.mp3?table=block&id=2b996798-ec58-80c3-9d37-e9e55ce8d6f9&spaceId=e3896798-ec58-81ba-ab5d-00031b37712f&expirationTimestamp=1764324000000&signature=ZXIiosTsqaG9Vy2DymHqI8Dh29f6H5VorNsZTGgICgs&downloadName=%E8%AF%B7%E4%BD%A0%E5%AF%B9%E6%88%91%E6%94%BE%E8%BF%87.MP3.mp3',
+      name: '后来',
+      artist: '刘若英',
+      url: 'http://music.163.com/song/media/outer/url?id=1488102278',
       cover:
         'https://file.notion.so/f/f/e3896798-ec58-81ba-ab5d-00031b37712f/ed7027bb-1eae-4cee-b59a-2c9d33b78b39/%E5%8F%A4%E5%AD%97%E7%82%B9-%E9%BB%91%E5%BA%951_%E5%89%AF%E6%9C%AC.png?table=block&id=2b896798-ec58-80b7-aace-e09fbad901f2&spaceId=e3896798-ec58-81ba-ab5d-00031b37712f&expirationTimestamp=1764280800000&signature=mDvg1_2sNHW2bAyAH3pP2x-cUzoiuGutCehE9xH0rKU&downloadName=%E5%8F%A4%E5%AD%97%E7%82%B9-%E9%BB%91%E5%BA%951_%E5%89%AF%E6%9C%AC.png'
     },
     {
       name: '小幸运',
       artist: '田馥甄',
-      url: 'https://file.notion.so/f/f/e3896798-ec58-81ba-ab5d-00031b37712f/b347d896-6788-4b26-90b6-eda29bdb1e53/%E5%B0%8F%E5%B9%B8%E8%BF%90.mp3?table=block&id=2b996798-ec58-8046-bc72-d45eb474010d&spaceId=e3896798-ec58-81ba-ab5d-00031b37712f&expirationTimestamp=1764367200000&signature=esT_6atK8DS8DwiT_dPZnokM7bq9RNfYKRCmC438qjQ&downloadName=%E5%B0%8F%E5%B9%B8%E8%BF%90.mp3',
+      url: 'http://music.163.com/song/media/outer/url?id=423997333',
       cover:
         'https://file.notion.so/f/f/e3896798-ec58-81ba-ab5d-00031b37712f/ed7027bb-1eae-4cee-b59a-2c9d33b78b39/%E5%8F%A4%E5%AD%97%E7%82%B9-%E9%BB%91%E5%BA%951_%E5%89%AF%E6%9C%AC.png?table=block&id=2b896798-ec58-80b7-aace-e09fbad901f2&spaceId=e3896798-ec58-81ba-ab5d-00031b37712f&expirationTimestamp=1764280800000&signature=mDvg1_2sNHW2bAyAH3pP2x-cUzoiuGutCehE9xH0rKU&downloadName=%E5%8F%A4%E5%AD%97%E7%82%B9-%E9%BB%91%E5%BA%951_%E5%89%AF%E6%9C%AC.png'
     },
     {
       name: '这世界有那么多人',
       artist: '莫文蔚',
-      url: 'https://file.notion.so/f/f/e3896798-ec58-81ba-ab5d-00031b37712f/9b9a729a-6eb6-42bc-832c-79d71ee2ed93/%E8%BF%99%E4%B8%96%E7%95%8C%E9%82%A3%E4%B9%88%E5%A4%9A%E4%BA%BA.mp3?table=block&id=2b996798-ec58-808e-86dd-ca36fbf7fd3b&spaceId=e3896798-ec58-81ba-ab5d-00031b37712f&expirationTimestamp=1764367200000&signature=jam1g97CB7acygPg_bBQo1QjlvzDwAfCQons_jCU5Is&downloadName=%E8%BF%99%E4%B8%96%E7%95%8C%E9%82%A3%E4%B9%88%E5%A4%9A%E4%BA%BA.mp3',
+      url: 'http://music.163.com/song/media/outer/url?id=1983505907',
       cover:
         'https://file.notion.so/f/f/e3896798-ec58-81ba-ab5d-00031b37712f/ed7027bb-1eae-4cee-b59a-2c9d33b78b39/%E5%8F%A4%E5%AD%97%E7%82%B9-%E9%BB%91%E5%BA%951_%E5%89%AF%E6%9C%AC.png?table=block&id=2b896798-ec58-80b7-aace-e09fbad901f2&spaceId=e3896798-ec58-81ba-ab5d-00031b37712f&expirationTimestamp=1764280800000&signature=mDvg1_2sNHW2bAyAH3pP2x-cUzoiuGutCehE9xH0rKU&downloadName=%E5%8F%A4%E5%AD%97%E7%82%B9-%E9%BB%91%E5%BA%951_%E5%89%AF%E6%9C%AC.png'
     },
     {
       name: '天国的女儿',
       artist: '世界名曲',
-      url: 'https://file.notion.so/f/f/e3896798-ec58-81ba-ab5d-00031b37712f/d58adaa1-c5e1-4f05-bbdc-9dcea4ac6207/%E4%B8%96%E7%95%8C%E5%90%8D%E6%9B%B2_-_%E5%A4%A9%E5%9B%BD%E7%9A%84%E5%A5%B3%E5%84%BF.mp3?table=block&id=2b896798-ec58-80ce-8231-f87d7896b492&spaceId=e3896798-ec58-81ba-ab5d-00031b37712f&expirationTimestamp=1764273600000&signature=-WQAVZhA07ynR0Q-FqUfPEgbvknJvM9AV74h_I8QzaM&downloadName=%E4%B8%96%E7%95%8C%E5%90%8D%E6%9B%B2+-+%E5%A4%A9%E5%9B%BD%E7%9A%84%E5%A5%B3%E5%84%BF.mp3',
+      url: 'http://music.163.com/song/media/outer/url?id=5238503',
       cover:
         'https://file.notion.so/f/f/e3896798-ec58-81ba-ab5d-00031b37712f/ed7027bb-1eae-4cee-b59a-2c9d33b78b39/%E5%8F%A4%E5%AD%97%E7%82%B9-%E9%BB%91%E5%BA%951_%E5%89%AF%E6%9C%AC.png?table=block&id=2b896798-ec58-80b7-aace-e09fbad901f2&spaceId=e3896798-ec58-81ba-ab5d-00031b37712f&expirationTimestamp=1764280800000&signature=mDvg1_2sNHW2bAyAH3pP2x-cUzoiuGutCehE9xH0rKU&downloadName=%E5%8F%A4%E5%AD%97%E7%82%B9-%E9%BB%91%E5%BA%951_%E5%89%AF%E6%9C%AC.png'
     }
