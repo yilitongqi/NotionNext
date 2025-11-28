@@ -51,9 +51,9 @@ module.exports = {
         'https://file.notion.so/f/f/e3896798-ec58-81ba-ab5d-00031b37712f/ed7027bb-1eae-4cee-b59a-2c9d33b78b39/%E5%8F%A4%E5%AD%97%E7%82%B9-%E9%BB%91%E5%BA%951_%E5%89%AF%E6%9C%AC.png?table=block&id=2b896798-ec58-80b7-aace-e09fbad901f2&spaceId=e3896798-ec58-81ba-ab5d-00031b37712f&expirationTimestamp=1764280800000&signature=mDvg1_2sNHW2bAyAH3pP2x-cUzoiuGutCehE9xH0rKU&downloadName=%E5%8F%A4%E5%AD%97%E7%82%B9-%E9%BB%91%E5%BA%951_%E5%89%AF%E6%9C%AC.png'
     },
     {
-      name: '后来',
-      artist: '刘若英',
-      url: 'http://music.163.com/song/media/outer/url?id=1488102278',
+      name: '梦里的他',
+      artist: '古字点',
+      url: 'https://webfs.kugou.com/202511282348/54ff972aed23655dbe876a87d6c11dfe/v3/46882ceb3dc24269e8a2f0b4495d1ec3/yp/full/ap1014_us569946912_mii0w1iw8z2ai2iphcu80ooo2ki81120_pi406_mx722275178_s1899222717.mp3',
       cover:
         'https://file.notion.so/f/f/e3896798-ec58-81ba-ab5d-00031b37712f/ed7027bb-1eae-4cee-b59a-2c9d33b78b39/%E5%8F%A4%E5%AD%97%E7%82%B9-%E9%BB%91%E5%BA%951_%E5%89%AF%E6%9C%AC.png?table=block&id=2b896798-ec58-80b7-aace-e09fbad901f2&spaceId=e3896798-ec58-81ba-ab5d-00031b37712f&expirationTimestamp=1764280800000&signature=mDvg1_2sNHW2bAyAH3pP2x-cUzoiuGutCehE9xH0rKU&downloadName=%E5%8F%A4%E5%AD%97%E7%82%B9-%E9%BB%91%E5%BA%951_%E5%89%AF%E6%9C%AC.png'
     },
